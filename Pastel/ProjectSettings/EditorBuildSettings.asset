@@ -5,7 +5,25 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Escenas/AudioPlayer.unity
+    guid: c5d92dab432ab9d4cb340e538741a514
+  - enabled: 1
+    path: Assets/Escenas/Calculadora.unity
+    guid: f3e18af329cd878478469b2b95607062
+  - enabled: 1
+    path: Assets/Escenas/CambiodeEscena.unity
+    guid: 571e614358ce60a43af492458ab35821
+  - enabled: 1
+    path: "Assets/Escenas/InicioSesi\xF3n.unity"
+    guid: 636eaa937d405b34b85088fd809f28a0
+  - enabled: 1
+    path: Assets/Escenas/Pasteles.unity
+    guid: 9fc0acf516f87874a94cd91e4b7e8ec9
+  - enabled: 1
+    path: Assets/Escenas/Video.unity
+    guid: ee8db77a7dfbda74eaa365fd37a3d75a
   m_configObjects: {}
